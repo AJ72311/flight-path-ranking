@@ -1,0 +1,18 @@
+17
+Dallas|Houston|235|69
+Austin|Dallas|329|64
+Los Angeles|Atlanta|599|258
+Chicago|Los Angeles|459|248
+Houston|Los Angeles|192|196
+Seattle|Chicago|340|243
+Miami|Seattle|449|404
+Houston|Miami|189|174
+Atlanta|Chicago|180|135
+Washington|Los Angeles|410|332
+New York|Washington|224|81
+Austin|New York|349|234
+Chicago|Washington|325|139
+Atlanta|Washington|161|124
+Dallas|Boston|203|240
+Chicago|Miami|344|224
+Phoenix|Denver|172|115
